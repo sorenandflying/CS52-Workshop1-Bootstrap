@@ -6,3 +6,7 @@
     color: #FFF;
     text-shadow: 2px 1px #000;
  }
+ #example-carousel.jumbotron{
+    background-size: cover;
+    background-color: rgb(120,200,120);
+ }
